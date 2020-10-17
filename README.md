@@ -1,5 +1,3 @@
-eManometer -- electronic Gauge and CO2 controller
-
-Status: beata
-Version : 0.7.6b
+WLAN Gateway for the IDS2 Controler
+Initial Version 0.5.0
 
